@@ -41,6 +41,12 @@
         </developer>
     </developers>
 
+    <scm>
+        <url>https://github.com/minimalcode-org/minimalcode-parent</url>
+        <connection>scm:git:git@github.com:minimalcode-org/minimalcode-parent.git</connection>
+        <developerConnection>scm:git:git@github.com:minimalcode-org/minimalcode-parent.git</developerConnection>
+    </scm>
+
     <properties>
         <java.version>1.6</java.version>
         <junit.version>4.12</junit.version>
