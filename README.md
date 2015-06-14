@@ -4,3 +4,5 @@
 [![Dependency Status](https://www.versioneye.com/user/projects/556dacd9393462001c010000/badge.svg?style=flat)](https://www.versioneye.com/user/projects/556dacd9393462001c010000)
 
 Parent pom.xml for all minimalcode sub-projects
+
+[Read Documentation](https://github.com/minimalcode-org/minimalcode-parent/wiki/1.-Home)
